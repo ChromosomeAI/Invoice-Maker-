@@ -62,3 +62,18 @@ Keep prompts clear and specific
 Include payment amounts
 Specify service types
 Add any special instructions
+
+//////////////////////////////////////////
+just in case you so stupid you cant make a key. 
+Machine to Machine
+
+Client ID:
+CJUutXd9NBpawL0d9TwOUXXePcvE8Emr
+
+Domain:
+dev-lk181qnefhhwibb5.us.auth0.com
+
+Client Secret:
+vkiuyeQecI1aCWqTigUt4OunbZkwt_qOuNC0TQ8IT15HoP8ahlc3msGqZNdf_kZQ
+
+The Client Secret is not base64 encoded
